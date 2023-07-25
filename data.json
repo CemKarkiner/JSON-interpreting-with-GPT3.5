@@ -1,0 +1,17 @@
+{
+    "information":
+    [
+        {
+            "battery":94,
+            "co2":471,
+            "humidity":35,
+            "temperature":8
+        },
+        {
+            "battery":14,
+            "co2":471,
+            "humidity":35,
+            "temperature":21
+        }
+    ]
+}
